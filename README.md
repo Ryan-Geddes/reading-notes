@@ -20,3 +20,6 @@
 
 ## Coding 201
 This site is a journal where I will take notes and record my progression through codefellows 201 class!  In 3 years, I will review this site from deep within my mansion that I purchased with my insane developer salary, gaze upon my flawless and professional code, and fondly recall my development into a beautiful coding butterfly.
+
+## Extracurricular Sources
+ - [Learn Javascript with mmtuts](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
