@@ -2,7 +2,7 @@
 # Code 201 Reading Notes
 
 ### Table of Contents
-- [Reading 1](markdown.md)
+- [Class 1](class-01.md)
 - [Reading 2](computer-setup)
 - [Reading 3](GitHub)
 - [Reading 4](Markdown.md)
