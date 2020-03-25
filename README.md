@@ -3,7 +3,7 @@
 
 ### Table of Contents
 - [Class 1](class-01.md)
-- [Reading 2](computer-setup)
+- [Class 2](class-02.md)
 - [Reading 3](GitHub)
 - [Reading 4](Markdown.md)
 - [Reading 5](markdown.md)
