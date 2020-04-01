@@ -5,7 +5,7 @@
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
 - [Class 3](class-03.md)
-- [Reading 4](Markdown.md)
+- [Class 4](class-04.md)
 - [Reading 5](markdown.md)
 - [Reading 6](computer-setup)
 - [Reading 7](GitHub)
