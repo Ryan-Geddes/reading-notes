@@ -10,7 +10,7 @@
 - [Class 6](class-06.md)
 - [Class 7](class-07.md)
 - [Class 08 - Layout](class-08.md)
-- [Reading 9](markdown.md)
+- [Class 9 - Events](class-09.md)
 - [Reading 10](computer-setup)
 - [Reading 11](GitHub)
 - [Reading 12](Markdown.md)
